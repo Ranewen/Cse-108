@@ -1,2 +1,4 @@
 # CSE 108
- Cse 108 lab
+
+Gebze Technical University
+CSE108 Programming Lab
